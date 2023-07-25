@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NeuzaSousa
-- 👀 I’m interested in... Computers and the internet
+- 👀 I’m interested in... Computers and the Internet
 - 🌱 I’m currently studying... Computer Science and Engineering (Bachelor's Degree)
+- 💪 I'm working as... Fullstack Web Developer
 - 💞️ I’m looking to collaborate on... 
 - 📫 How to reach me... neuzarssousa@gmail.com
 
